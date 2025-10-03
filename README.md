@@ -1,2 +1,15 @@
-# Downstream-Processing-Optimization
-Simulates and optimizes protein purification in chromatography using realistic data. Includes automated analysis, visualization of elution profiles and yield vs. purity, and outputs optimized process parameters for reproducible downstream processing studies.
+# Downstream Processing Optimization
+
+## Overview
+This project simulates and optimizes protein purification in chromatography.
+It computes yield and purity for different operating conditions and identifies optimal parameters.
+
+## Files
+- data/: Chromatography data.
+- notebooks/: Jupyter notebook (analysis).
+- results/: Plots and optimized conditions.
+- environment.yml: Conda environment.
+
+## Usage
+1. Clone repo.
+2. Run Jupyter notebook in notebooks/ or Python scripts.
