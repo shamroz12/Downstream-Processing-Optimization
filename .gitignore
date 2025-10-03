@@ -1,5 +1,6 @@
 __pycache__/
+venv/
+node_modules/
+examples/sample_data/real/*
 *.pyc
-.ipynb_checkpoints/
-results/*.png
-results/*.csv
+.env
